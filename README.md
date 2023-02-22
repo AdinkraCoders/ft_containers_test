@@ -16,7 +16,7 @@ Passing this tester does not guarantee the project was done correctly.
 From the directory where your ft_containers (vector.hpp, map.hpp, stack.hpp) are located:
 
 ```bash
-git clone https://github.com/AdinkraCoders/ft_containers_test.git && cd ./containers_test/
+git clone https://github.com/AdinkraCoders/ft_containers_test.git && cd ./ft_containers_test/
 ```
 
 Expected tree after running the above command:
